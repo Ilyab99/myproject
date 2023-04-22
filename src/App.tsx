@@ -25,9 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR.
         </p>
         <p >
-          {var i = 29832;
-          console.log(i);
-          }
+       this should build fine {324324+1}
         </p>
 
         <p>
