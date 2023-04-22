@@ -18,7 +18,7 @@ function App() {
       <h1>Vite + React</h1>
       <h2>On CodeSandbox!</h2>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
         <p>
