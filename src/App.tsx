@@ -24,6 +24,11 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR.
         </p>
+        <p >
+          {var i = 29832;
+          console.log(i);
+          }
+        </p>
 
         <p>
           Tip: you can use the inspector button next to address bar to click on
