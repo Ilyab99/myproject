@@ -15,8 +15,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
-      <h2>On CodeSandbox!</h2>
+      <h1>Vite + React + typescript yes or nono?</h1>
+      <h2>hey /g/ I had been trying to deploy something for days</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
