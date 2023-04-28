@@ -15,7 +15,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + typescript yes{ 1 == 1} or nono?</h1>
+      <h1>Vite + React + typescript yes{ 1 == 1 == true} or nono?</h1>
       <h2>hey /g/ I had been trying to deploy something for days</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
