@@ -8,14 +8,14 @@ function App() {
   return (
     <div className="App">
       <div>
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://www.twitch.tv/sizeofint" target="_blank">
           <img src="/vite.svg" className="logo" alt="Vite logo" />
         </a>
-        <a href="https://reactjs.org" target="_blank">
+        <a href="https://www.twitch.tv/sizeofint" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + typescript yes{ 1 == 1 == true} or nono?</h1>
+      <h1>This is the website for <a href="twitch.tv/sizeofint">twitch.tv/sizeofint</a></h1>
       <h2>hey /g/ I had been trying to deploy something for days</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
