@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <div>
         <a href="https://www.twitch.tv/sizeofint" target="_blank">
-          <img src="/vite.svg" className="logo" alt="Vite logo" />
+          <img src="{reactLogo}" className="logo" alt="Twith logo" />
         </a>
         <a href="https://www.twitch.tv/sizeofint" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src={reactLogo} className="logo react" alt="Twitch logo" />
         </a>
       </div>
       <h1>This is the website for <a href="twitch.tv/sizeofint">twitch.tv/sizeofint</a></h1>
