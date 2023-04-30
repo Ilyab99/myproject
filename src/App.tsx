@@ -20,6 +20,12 @@ function App() {
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
+        <p>
+          the very popular twitch streamer sizeofint! 
+
+            I play SF5 and mainly broodwar but aside form that loads of other games
+            have fun!
+        </p>
      
        
 
