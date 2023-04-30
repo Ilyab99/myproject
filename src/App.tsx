@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div>
         <a href="https://www.twitch.tv/sizeofint" target="_blank">
-          <img src="{reactLogo}" className="logo" alt="Twith logo" />
+          <img src={reactLogo} className="logo" alt="Twith logo" />
         </a>
         <a href="https://www.twitch.tv/sizeofint" target="_blank">
           <img src={reactLogo} className="logo react" alt="Twitch logo" />
