@@ -15,7 +15,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="Twitch logo" />
         </a>
       </div>
-      <h1>This is the website for <a href="twitch.tv/sizeofint">twitch.tv/sizeofint</a></h1>
+      <h1>This is the website for <a href="https://twitch.tv/sizeofint">twitch.tv/sizeofint</a></h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
