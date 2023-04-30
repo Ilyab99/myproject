@@ -16,7 +16,6 @@ function App() {
         </a>
       </div>
       <h1>This is the website for <a href="twitch.tv/sizeofint">twitch.tv/sizeofint</a></h1>
-      <h2>hey /g/ I had been trying to deploy something for days</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
