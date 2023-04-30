@@ -21,15 +21,11 @@ function App() {
           count is {count}
         </button>
      
-        <p >
-       this should build fine {324324+1}
-        </p>
+       
 
      
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+    
     </div>
   );
 }
