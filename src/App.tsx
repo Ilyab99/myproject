@@ -20,6 +20,8 @@ function App() {
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
+        <h1>This is the website for <a href="index_nor.html">4.82 PS3 NOR patcher</a></h1>
+
         <p>
           the very popular twitch streamer sizeofint! 
 
